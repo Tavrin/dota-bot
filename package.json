@@ -1,0 +1,39 @@
+{
+  "name": "dota-bot",
+  "version": "1.0.0",
+  "description": "dota bot for discord",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tavrin/dota-bot.git"
+  },
+  "author": "Etienne Doux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tavrin/dota-bot/issues"
+  },
+  "homepage": "https://github.com/Tavrin/dota-bot#readme",
+  "dependencies": {
+    "canvas": "^2.5.0",
+    "commando-provider-mongo": "^1.1.1",
+    "crawler": "^1.2.1",
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "dota-wiki-api": "^1.1.0",
+    "dotenv": "^7.0.0",
+    "erlpack": "github:hammerandchisel/erlpack",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
+    "ffmpeg-static": "^2.4.0",
+    "libsodium-wrappers": "^0.7.4",
+    "mongodb": "^3.2.7",
+    "mongoose": "^5.6.0",
+    "node-fetch": "^2.6.0",
+    "node-opus": "^0.3.2",
+    "prism-media": "^1.0.2",
+    "uws": "^100.0.1"
+  }
+}
