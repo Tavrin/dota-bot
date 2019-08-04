@@ -7,7 +7,7 @@ A Discord bot to get info about dota 2, packed with community features.
 * To use the bot write `!db` before your command
 
 | Command        | Effect           |
-| -------------  |:-------------:|
+| -------------  |-------------:|
 | reddit         | show top Reddit posts in the Hot section |
 | twitch       | show top dota 2 Twitch streams     |
 | stats  | show dota stats, based on OpenDota      |
