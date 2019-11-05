@@ -30,7 +30,7 @@
     "ffmpeg-static": "^2.5.0",
     "libsodium-wrappers": "^0.7.5",
     "mongodb": "^3.2.7",
-    "mongoose": "^5.6.8",
+    "mongoose": "^5.7.5",
     "node-fetch": "^2.6.0",
     "node-opus": "^0.3.2",
     "prism-media": "^1.0.2",
